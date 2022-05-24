@@ -5,7 +5,7 @@ import math
 mp_drawing = mp.solutions.drawing_utils
 mp_pose = mp.solutions.pose
 
-IMG_PATH = ["img/vid_Moment1.jpg", "img/vid_Moment2.jpg", "img/vid_Moment3.jpg", "img/vid_Moment4.jpg"]
+IMG_PATH = ["img/vid_2_Moment.png","img/vid_Moment1.jpg", "img/vid_Moment2.jpg", "img/vid_Moment3.jpg", "img/vid_Moment4.jpg"]
 
 # dim = (int(img.shape[1] * 0.25), int(img.shape[0] * 0.25))
 #
